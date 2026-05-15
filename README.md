@@ -30,5 +30,6 @@
 
 - ⚛ Tecnologias utilizadas: Stripe, NestJS, TypeScript, JSON Web Token (JWT), TypeORM, PostgreSQL, Cloudinary, API de Swagger, Jest, Docker, GitHub Actions
   fotos
+
 ✅ Aplicación final: https://pf-front-ijjg.vercel.app/home
 
