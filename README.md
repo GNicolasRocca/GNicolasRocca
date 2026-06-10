@@ -8,7 +8,7 @@
 ## 🛠️ Tecnologías
 - JavaScript, TypeScript, Python, NodeJS, PostgreSQL, HTML, CSS
 - Git y GitHub Actions
-- Ademas de: TypeORM, React, MongoDB, NestJS, Express
+- Ademas de: TypeORM, React, MongoDB, NestJS, Express, Axios, Bootstrap
 
 ---
 
