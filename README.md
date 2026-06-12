@@ -1,4 +1,3 @@
-<img width="1280" height="693" alt="1773714957326" src="https://github.com/user-attachments/assets/bc9244aa-b536-4a84-ba0a-ac7f84ea3cfe" />
 # 👋 Hola, soy Gonzalo Rocca
 
 💻 Desarrollador web Fullstack (especialización en Backend)  
