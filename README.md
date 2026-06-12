@@ -1,3 +1,4 @@
+<img width="1280" height="693" alt="1773714957326" src="https://github.com/user-attachments/assets/bc9244aa-b536-4a84-ba0a-ac7f84ea3cfe" />
 # 👋 Hola, soy Gonzalo Rocca
 
 💻 Desarrollador web Fullstack (especialización en Backend)  
@@ -30,7 +31,11 @@
 
 - ⚛ Tecnologias utilizadas: Stripe, NestJS, TypeScript, JSON Web Token (JWT), TypeORM, PostgreSQL, Cloudinary, API de Swagger, Jest, Docker, GitHub Actions.
 
---  fotos
+
+<img width="1280" height="693" alt="1773714957326" src="https://github.com/user-attachments/assets/4fdd5762-ea5f-4ced-81a6-0ea69e64b8ec" />
+<img width="1280" height="693" alt="1773714982088" src="https://github.com/user-attachments/assets/37364aa4-2217-4e70-914b-6a87dbcb9e84" />
+<img width="1280" height="693" alt="1773714995222" src="https://github.com/user-attachments/assets/fe2e2375-ea6b-45fc-a517-c56918641cf3" />
+
 
 ✅ Aplicación final: https://pf-front-ijjg.vercel.app/home
 
